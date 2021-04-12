@@ -1,4 +1,4 @@
-# OnlineStoreTheme
+# OnlineStoreTheme1
 
 This app only uses HTML5, CSS, and a little Javascript.
 There are index page (main page), 
