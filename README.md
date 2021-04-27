@@ -1,6 +1,6 @@
 # OnlineStoreTheme1
 
-This app only uses HTML5, CSS, and a little Javascript.
+This app only uses HTML5, CSS, and a few Javascript.
 There are index page (main page), 
 cart page for checkout items, 
 category pages to view specific products,
